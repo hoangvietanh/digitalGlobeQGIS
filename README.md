@@ -7,7 +7,7 @@ Bạn sẽ được yêu cầu cung cấp email, mật khẩu. Sau đó tài kho
 Sau khi đã có tài khoản bạn hãy vào trang sau để copy mã token
 https://mapsapi.digitalglobe.com/account
 
-![Image of token](https://github.com/hoangvietanh/digitalGlobeQGIS/blob/master/token.JPG)
+![Image of token](https://raw.githubusercontent.com/hoangvietanh/digitalGlobeQGIS/master/token.JPG)
 
 
 ### Bước 3: tạo đường link WMS để sử dụng cho QGIS
@@ -22,7 +22,7 @@ Cụ thể như sau:
 - Sau dấu = paste token đã được lưu ở bước 2. Đóng cửa sổ tạo WMS mới lại --> tại của sổ chính của Add WMS layer ta đã có tên của WMS vừa tạo
 - Chọn connect tới WMS layer đó --> ảnh Digital Globe đã được add vào phiên làm việc QGIS của bạn.
 
-![Image of WMS](https://github.com/hoangvietanh/digitalGlobeQGIS/blob/master/qgis2.png)
+![Image of WMS](https://raw.githubusercontent.com/hoangvietanh/digitalGlobeQGIS/master/qgis2.png)
 
 
 Các bước nói trên có thể xem video tại link sau
