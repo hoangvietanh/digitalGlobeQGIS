@@ -1,7 +1,7 @@
 # Cách mở ảnh Digital Globe trong QGIS sử dụng Digital Globe API
 
 ## Bước 1: đăng ký tài khoản tại địa chỉ https://mapsapi.digitalglobe.com
-Bạn sẽ được yêu cầu cung cấp email, tên và verify tài khoản thông qua email. Thao tác thông thường như khi đăng ký tài khoản tại các trang khác.
+Bạn sẽ được yêu cầu cung cấp email, mật khẩu. Sau đó tài khoản sẽ được verify thông qua email. Thao tác thông thường như khi đăng ký tài khoản tại các trang khác.
 
 ## Bước 2: lấy token
 Sau khi đã có tài khoản bạn hãy vào trang dưới đây để copy mã token
